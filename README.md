@@ -259,33 +259,6 @@ Pune         ████████               8  (8%)
 | `Recruiter Name` | Text | Name of recruiter |
 | `Application Source` | Text | `LinkedIn` · `Naukri` · `Referral` |
 
----
-
-## 🚀 Getting Started
-
-1. **Download** the `.xlsx` file
-2. Open in **Microsoft Excel 2016+** or **Google Sheets**
-3. Go to the **Dashboard** sheet for a visual summary
-4. Use **slicers** to filter by company, status, location, or source
-5. Add new rows to **Job Data** — all pivots and charts refresh automatically
-
----
-
-## ⚙️ Requirements
-
-- Microsoft Excel 2016+ *(recommended — required for slicers & pivot charts)*
-- Google Sheets *(basic data & pivot support)*
-- No macros, add-ins, or external data connections required
-
----
-
-## 📝 Notes
-
-- All salary and CTC figures are in **Indian Rupees (₹)**
-- `Skills` stores multiple values as semicolon-separated strings
-- `Notice Period` is measured in **days**
-- `Interview Score` is on a **0–100 scale**
-- Dataset covers applications from **Feb–Apr 2025**
 
 ---
 
