@@ -93,11 +93,6 @@ LinkedIn · Naukri · Referral
 - **Location Heatmap** — Application and offer distribution across Indian cities
 
 ---
-# 📊 Job Application Tracking & Offer Analytics Dashboard
-
-> An Excel-based dashboard to track job applications, monitor recruitment pipelines, and analyze offer trends across companies, roles, locations, and salary bands — built for the Indian job market.
-
----
 
 ## 🚦 Pipeline at a Glance
 
